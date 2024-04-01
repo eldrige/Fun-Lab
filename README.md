@@ -1,36 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Contributing to Zero to mastery fun lab repo
 
-## Getting Started
+This is a guide to making your first pull request using github
 
-First, run the development server:
+## We Develop with Github
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+We use github to host code, to track issues and feature requests, as well as accept pull requests.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## We Use [Github Flow](https://guides.github.com/introduction/flow/index.html), So All Code Changes Happen Through Pull Requests
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Steps
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. Fork the repo and create your branch from `main`.
+2. Clone the repository you have forked (Appears in the repository section of your profile)
+3. Checkout to a new branch. (Optional if you don't have a concept of branching)
+4. Change in `users.js` add your github username in the above json array. Note: Make sure you place your username is exactly as it appears on github
+5. Commit the changes
+6. Create a PR to the original repository. Here is how you do it:
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   ![Creating PR](https://user-images.githubusercontent.com/27361350/94980913-a42d8780-054d-11eb-8165-34c671820bcb.png)
