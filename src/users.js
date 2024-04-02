@@ -1,1 +1,1 @@
-export const users = ['Eldrige', 'Kodedbykenzie', 'jokmaker'];
+export const users = ['Eldrige', 'Kodedbykenzie', 'jokMaker'];
